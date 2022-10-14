@@ -1,8 +1,8 @@
 # Lesson: Advanced Interaction Technologies & Applications
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
+### First and Last Name: Paraskevi Xenoktistaki
+### University Registration Number: dpsd19143
+### GitHub Personal Profile: EvitaXen
 ### Advanced Interaction Tecnologies & Applications Github Personal Repository: xxx
 
 # Introduction
