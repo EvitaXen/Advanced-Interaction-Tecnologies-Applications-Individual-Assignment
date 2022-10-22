@@ -1,7 +1,7 @@
 # Lesson: Advanced Interaction Technologies & Applications
 
 ### First and Last Name: Paraskevi Xenoktistaki
-### University Registration Number: dpsd19143
+### University Registration Number: DPSD19143
 ### GitHub Personal Profile: EvitaXen
 ### Advanced Interaction Tecnologies & Applications Github Personal Repository: xxx
 
