@@ -11,8 +11,11 @@
 
 
 # 1st Deliverable
+### 1. Video Capture
+Αφότου έκανα προσθήκη της βιβλιοθήκης **Video Library for Processing 4**, πήρα από το [Learning Processing, 2nd Edition](http://learningprocessing.com/) το παράδειγμα [16-1](http://learningprocessing.com/examples/chp16/example-16-01-Capture) και το έτρεξα στο **Processing**. 
 
-Αφότου διάβασα το [online tutorial](https://processing.org/tutorials/video#live-video) για το βίντεο, βρήκα από το [Learning Processing, 2nd Edition](http://learningprocessing.com/) το παράδειγμα [16-1](http://learningprocessing.com/examples/chp16/example-16-01-Capture). Έτρεξα τον κώδικα αλλά δεν δούλεψε διότι χρειαζόταν να κατεβάσω την βιβλιοθήκη [video](https://processing.org/reference/libraries/video/index.html) από το [processing-video GitHub repository](https://github.com/processing/processing-video). 
+### 2. Recorded video
+
 # 2nd Deliverable
 
 
