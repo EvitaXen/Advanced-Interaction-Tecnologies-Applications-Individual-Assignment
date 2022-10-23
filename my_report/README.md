@@ -12,9 +12,11 @@
 
 # 1st Deliverable
 ### 1. Video Capture
-Αφότου έκανα προσθήκη της βιβλιοθήκης **Video Library for Processing 4**, πήρα από το [Learning Processing, 2nd Edition](http://learningprocessing.com/) το παράδειγμα [16-1](http://learningprocessing.com/examples/chp16/example-16-01-Capture) και το έτρεξα στο **Processing**. 
+Αφότου έκανα προσθήκη της βιβλιοθήκης **Video Library for Processing 4**, πήρα από το [Learning Processing, 2nd Edition](http://learningprocessing.com/) το παράδειγμα 16-1 και το έτρεξα στο **Processing**. 
 
 ### 2. Recorded video
+
+Αρχικά κατέβασα ένα βίντεο 10sec από το [εδώ](https://www.videvo.net/video/glowing-purple-grid-lines-tracking-in/393674/) και το έκανα convert από [.mb4 σε .mov)[https://cloudconvert.com/] το αποθήκευσα σε έναν φάκελο data που έφτιαξα στο Processing --> sketch_221023b σύμφωνα με το παράδειγμα 16-4 του [βιβλίου](http://learningprocessing.com/). Μετά πήρα τον κώδικα από το παράδειγμα, πρόσθεσα το βίντεο 
 
 # 2nd Deliverable
 
