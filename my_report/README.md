@@ -19,7 +19,7 @@
 
 ### 2. Recorded video
 
-Αρχικά κατέβασα ένα βίντεο 10sec από [εδώ](https://www.videvo.net/video/glowing-purple-grid-lines-tracking-in/393674/) και το έκανα convert από [.mb4 σε .mov](https://cloudconvert.com/) το αποθήκευσα σε έναν φάκελο data που έφτιαξα στο Processing --> sketch_221023b σύμφωνα με το παράδειγμα 16-4 του [βιβλίου](http://learningprocessing.com/). 
+Αρχικά κατέβασα ένα βίντεο 10sec από [εδώ](https://www.videvo.net/video/glowing-purple-grid-lines-tracking-in/393674/) και το αποθήκευσα σε έναν φάκελο data που έφτιαξα στο Processing --> sketch_221023b σύμφωνα με το παράδειγμα 16-4 του [βιβλίου](http://learningprocessing.com/). 
 
 # 2nd Deliverable
 
