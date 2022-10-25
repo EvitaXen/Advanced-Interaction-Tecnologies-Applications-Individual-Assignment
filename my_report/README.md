@@ -18,12 +18,16 @@
 
 
 ### 2. Recorded video
-
 Αρχικά κατέβασα ένα βίντεο 10sec από [εδώ](https://www.videvo.net/video/glowing-purple-grid-lines-tracking-in/393674/) και το αποθήκευσα σε έναν φάκελο data που έφτιαξα στο Processing --> sketch_221023b σύμφωνα με το παράδειγμα 16-4 του [βιβλίου](http://learningprocessing.com/). Μετά, σύμφωνα με το 16-5 (σελίδα 337 του βιβλίου)  έκανα import το Video Library for Processing 3 --> Movie --> Speed όπου έβαλα το βίντεο και άλλαξα τις διαστάσεις του παραθύρου για να φαίνεται.
 
 ![image](https://user-images.githubusercontent.com/101424559/197757334-6b76e5c4-1ed4-4065-9a11-3d20603b2884.png)
 
 ### 3. QR Code
+Πρώτα έκανα προσθήκη της [βιβλιοθήκης Processing QRCode](https://shiffman.net/p5/qrcode-processing/) στο Processing, ενώ μετά έκανα το [QR Code](https://www.qrcode-monkey.com/) και το αποθήκευσα στον φάκελο του sketch .Έπειτα έκανα αντιγραφή τον κώδικα του παραδείγματος 15-1 από το βιβλίο και άλλαξα την εικόνα σε αυτή του QR Code, επίσης άλλαξα τις διαστάσεις του παραθύρου ώστε να φαίνεται ομοιόμορφο. 
+
+![image](https://user-images.githubusercontent.com/101424559/197763268-5526842b-418e-470e-820b-2ce98f80a742.png)
+
+### 4. QR Code - Camera Read
 
 # 2nd Deliverable
 
