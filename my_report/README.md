@@ -35,6 +35,8 @@ Eτρεξα το example για το QR Code, έκανα αντιγραφή το
 ### 5. Augmented Reality
 Αρχικά, εγκατάστησα την τελευταία έκδοση της βιβλιοθήκης NyARToolkit, συγκεκριμένα το [nyar4psg.zip](https://github.com/nyatla/NyARToolkit-for-Processing/releases).  Πήρα τον κώδικα από το έτοιμο παράδειγμα simpleLite και έφτιαξα ένα άλλο sketch. Έπειτα έβαλα την φωτογραφία στα data που έβαλα στον φάκελο που είναι αποθηκευμένος ο κώδικας και πρόσθεσα στον κώδικα από το παράδειγμα QR Code το κομμάτι για την εικόνα.
 
+![image](https://user-images.githubusercontent.com/101424559/197820765-8c6dac7c-df68-488e-8d22-0e0d8ec605c3.png)
+
 # 2nd Deliverable
 
 
