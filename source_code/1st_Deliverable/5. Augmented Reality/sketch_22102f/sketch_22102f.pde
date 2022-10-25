@@ -41,6 +41,6 @@ void draw()
     return;
   }
   nya.beginTransform(0);
-  image(img,0,0, width, height);
+  image(img,0,0, 20, 20);
   nya.endTransform();
 }
