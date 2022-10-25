@@ -19,7 +19,11 @@
 
 ### 2. Recorded video
 
-Αρχικά κατέβασα ένα βίντεο 10sec από [εδώ](https://www.videvo.net/video/glowing-purple-grid-lines-tracking-in/393674/) και το αποθήκευσα σε έναν φάκελο data που έφτιαξα στο Processing --> sketch_221023b σύμφωνα με το παράδειγμα 16-4 του [βιβλίου](http://learningprocessing.com/). 
+Αρχικά κατέβασα ένα βίντεο 10sec από [εδώ](https://www.videvo.net/video/glowing-purple-grid-lines-tracking-in/393674/) και το αποθήκευσα σε έναν φάκελο data που έφτιαξα στο Processing --> sketch_221023b σύμφωνα με το παράδειγμα 16-4 του [βιβλίου](http://learningprocessing.com/). Μετά, σύμφωνα με το 16-5 (σελίδα 337 του βιβλίου)  έκανα import το Video Library for Processing 3 --> Movie --> Speed όπου έβαλα το βίντεο και άλλαξα τις διαστάσεις του παραθύρου για να φαίνεται.
+
+![image](https://user-images.githubusercontent.com/101424559/197757334-6b76e5c4-1ed4-4065-9a11-3d20603b2884.png)
+
+### 3. QR Code
 
 # 2nd Deliverable
 
