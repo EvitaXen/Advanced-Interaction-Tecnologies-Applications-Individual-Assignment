@@ -28,6 +28,9 @@
 ![image](https://user-images.githubusercontent.com/101424559/197763268-5526842b-418e-470e-820b-2ce98f80a742.png)
 
 ### 4. QR Code - Camera Read
+Eτρεξα το example για το QR Code, έκανα αντιγραφή τον κώδικα και μετά έφτιαξα έναν φάκελο data εκεί που είναι αποθηκευμένος ο κώδικας sketch και έβαλα το QR code ως png. Έτρεξα τον κώδικα και όταν πατούσα το spacebar μου έβγαζε το URL.
+
+![image](https://user-images.githubusercontent.com/101424559/197786593-fbf8a7db-fc34-4931-8f83-68d77c2db81e.png)
 
 # 2nd Deliverable
 
