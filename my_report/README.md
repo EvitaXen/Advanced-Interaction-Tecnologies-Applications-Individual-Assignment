@@ -48,6 +48,12 @@ Eτρεξα το example για το QR Code, έκανα αντιγραφή το
 
 <img src="https://user-images.githubusercontent.com/101424559/201998100-6835aa3d-00bf-4fef-86f4-02a7e5dc4e57.png"  width="290" height="210">
 
+### 3. Background Substraction - Library use
+Αρχικά κατέβασα την βιβλιοθήκη OpenCV for Processing, άνοιξα το παράδειγμα BackgroundSubstractio και με βοήθεια από το παράδειγμα [capture](http://learningprocessing.com/examples/chp16/example-16-01-Capture) έφτιαξα τον κώδικα. Αλλαξα το size(320, 240), πρόσθεσα το 
+video = new Capture(this, 320, 240);  video.start();, άλλαξα το stroke. 
+
+<img src="https://user-images.githubusercontent.com/101424559/202005796-5e9c0d4c-fbfd-4464-94c5-7d82eb52f261.png" width="240" height="210">
+
 
 # 3rd Deliverable 
 
