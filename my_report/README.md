@@ -43,6 +43,12 @@ Eτρεξα το example για το QR Code, έκανα αντιγραφή το
 
 <img src="https://user-images.githubusercontent.com/101424559/201982889-57b7d30b-dccb-4a4b-9189-b60b20b22c11.png" width="300" height="210">
 
+### 2. Motion Detection
+Άνοιξα το παράδειγμα [16-7](http://learningprocessing.com/exercises/chp16/exercise-16-07-track-motion), το έκανα copy paste στο sketch και πείραξα το χρώμα, το μέγεθος της έλλειψης και αύξησα το threshold = 150;. 
+
+<img src="https://user-images.githubusercontent.com/101424559/201998100-6835aa3d-00bf-4fef-86f4-02a7e5dc4e57.png"  width="290" height="210">
+
+
 # 3rd Deliverable 
 
 
