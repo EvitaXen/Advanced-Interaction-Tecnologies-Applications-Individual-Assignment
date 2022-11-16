@@ -55,7 +55,7 @@ video = new Capture(this, 320, 240);  video.start();, άλλαξα το stroke.
 <img src="https://user-images.githubusercontent.com/101424559/202005796-5e9c0d4c-fbfd-4464-94c5-7d82eb52f261.png" width="240" height="210">
 
 ### 4. Object Tracking
-Άνοιξα το example [16-11](http://learningprocessing.com/examples/chp16/example-16-11-ColorTrack), το [example 9-8](http://learningprocessing.com/examples/chp09/example-09-08-mouse-history), και έφτιαξα τον κώδικα στο sketch "xpos[xpos.length-1] = closestX;"  "ypos[ypos.length-1] = closestY;" , έτσι ώστε  η είσοδος να γίνεται από ένα αντικείμενο της επιλογής μου, και το φιδάκι να ακολουθεί αλλά και να είναι το χρώμα αυτού. 
+Άνοιξα το example [16-11](http://learningprocessing.com/examples/chp16/example-16-11-ColorTrack), το [example 9-8](http://learningprocessing.com/examples/chp09/example-09-08-mouse-history), και έφτιαξα τον κώδικα στο sketch "xpos[xpos.length-1] = closestX;"  "ypos[ypos.length-1] = closestY;" , έτσι ώστε  η είσοδος να γίνεται από ένα αντικείμενο της επιλογής μου με αριστερό κλικ από το ποντίκι, και το φιδάκι να ακολουθεί αλλά και να είναι το χρώμα αυτού. 
 
 <img src="https://user-images.githubusercontent.com/101424559/202160010-8fd9354f-2480-437e-b9a6-ad2cfa83cdcf.png" width="240" height="210">
 
