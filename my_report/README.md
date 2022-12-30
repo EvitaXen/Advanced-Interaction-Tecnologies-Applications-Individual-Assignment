@@ -71,8 +71,7 @@ video = new Capture(this, 320, 240);  video.start();, άλλαξα το stroke.
 Έκανα εγκατάσταση την εφαρμογή reacTIVision vision engine, την βιβλιοθήκη reacTIVision στο Processing, την εφαρμογή TUIO Simulator και άνοιξα το παράδειγμα TUIO demo. Στην αρχή ήταν λευκή η οθόνη αλλά όταν έβαζα τα σχήματα μέσα στον κύκλο από το simulator φαινόντουσαν ταυτόχρονα και στο παράθυρο. 
 
 <img src="https://user-images.githubusercontent.com/101424559/210105392-97ddcbf3-89b6-4b28-81b9-6ae54aab3335.png"  width="300" height="210">
-<img src="https://user-images.githubusercontent.com/101424559/210105502-ee1b4d2e-8e8e-429c-8a80-fe9c91dddd67.png" width="300" height="210" >
-
+<img src="https://user-images.githubusercontent.com/101424559/210105502-ee1b4d2e-8e8e-429c-8a80-fe9c91dddd67.png" width="300" height="210">
 
 # Bonus 
 
