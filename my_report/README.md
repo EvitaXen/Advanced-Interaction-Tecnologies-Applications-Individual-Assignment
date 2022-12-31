@@ -73,6 +73,8 @@ video = new Capture(this, 320, 240);  video.start();, άλλαξα το stroke.
 <img src="https://user-images.githubusercontent.com/101424559/210105392-97ddcbf3-89b6-4b28-81b9-6ae54aab3335.png"  width="300" height="210">
 <img src="https://user-images.githubusercontent.com/101424559/210105502-ee1b4d2e-8e8e-429c-8a80-fe9c91dddd67.png" width="300" height="210">
 
+Έπειτα, με την βοήθεια αυτού του [βίντεο](https://www.youtube.com/watch?v=qKXlI4zAMAY&ab_channel=SergioL%C3%B3pezRey) κατάλαβα την λογική και έφτιαξα τον κώδικα έτσι ώστε όταν εμφανίζεται ένας κωδικός στην κάμερα από τον simulator, να εμφανίζεται και μία [εικόνα](https://processing.org/reference/image_.html) στο παράθυρο του processing.
+
 # Bonus 
 
 
