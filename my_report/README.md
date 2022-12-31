@@ -74,6 +74,19 @@ video = new Capture(this, 320, 240);  video.start();, άλλαξα το stroke.
 <img src="https://user-images.githubusercontent.com/101424559/210105502-ee1b4d2e-8e8e-429c-8a80-fe9c91dddd67.png" width="300" height="210">
 
 Έπειτα, με την βοήθεια αυτού του [βίντεο](https://www.youtube.com/watch?v=qKXlI4zAMAY&ab_channel=SergioL%C3%B3pezRey) κατάλαβα την λογική και έφτιαξα τον κώδικα έτσι ώστε όταν εμφανίζεται ένας κωδικός στην κάμερα από τον simulator, να εμφανίζεται και μία [εικόνα](https://processing.org/reference/image_.html) στο παράθυρο του processing.
+Στην συνέχεια από [εδώ](https://forum.processing.org/two/discussion/4991/help-with-detecting-fiducial-markers) έμαθα πως να γράψω τον κώδικα ώστε να αναγνωρίζει συγκεκριμένους κώδικες και από [εδώ](https://forum.processing.org/one/topic/how-do-i-hide-a-image-when-it-s-pressed.html) πως να εμφανίζεται και να εξαφανίζεται μία εικόνα. Η συνθήκη είναι η παρακάτω: 
+
+   if(id==5) {
+   showImage = true;
+   }
+   
+  else if(id!=5){
+  showImage = false;
+  }
+  //ta println ta xrisimopoiw epeidi me voithoyn
+ 
+   println("ID " + id);
+}
 
 # Bonus 
 
