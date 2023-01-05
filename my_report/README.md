@@ -91,8 +91,7 @@ video = new Capture(this, 320, 240);  video.start();, άλλαξα το stroke.
 
 <img src="https://user-images.githubusercontent.com/101424559/210828112-d7e356bd-0a8e-4f97-91ec-4d9663ffd274.png" width="300" height="210">
 <img src="https://user-images.githubusercontent.com/101424559/210829219-d69f5cbe-0472-4a45-8ec4-5cd86fef332b.png" width="300" height="210">
-                                                                                                                                         
-
+                                                                                                                                       
 # Bonus 
 
 
