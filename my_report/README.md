@@ -77,6 +77,22 @@ video = new Capture(this, 320, 240);  video.start();, άλλαξα το stroke.
 Στην συνέχεια πήρα τον κώδικα από το παράδειγμα και από [εδώ](https://forum.processing.org/two/discussion/4991/help-with-detecting-fiducial-markers) έμαθα τι να γράψω ώστε κάποιοι κώδικες να έχουν συγκεκριμένες ιδιότητες ενώ από [εδώ](https://forum.processing.org/one/topic/how-do-i-hide-a-image-when-it-s-pressed.html) πως να εμφανίζεται και να εξαφανίζεται μία εικόνα.
 (ID = 0 [για αντιστροφή χρωμάτων](https://processing.org/reference/filter_.html), ID = 1 για ασπρόμαυρο φίλτρο, ID = 2 [για μεγέθυνση](https://processing.org/reference/scale_.html), ID = 3 πρώτη εικόνα, ID = 4 δεύτερη εικόνα.)
 
+ΙD = 3 & ID = 0 
+
+<img src ="https://user-images.githubusercontent.com/101424559/210827103-ed9331e2-076f-473c-8ed2-86335f9e3b37.png" width="300" height="210">
+<img src="https://user-images.githubusercontent.com/101424559/210827355-a9c10a88-11c1-46e8-b08d-71445f736493.png" width="300" height="210">
+
+ΙD = 4 & ID = 1
+
+<img src="https://user-images.githubusercontent.com/101424559/210827595-bdc6a975-8880-4c21-9e39-482bd1b94ad8.png" width="300" height="210">
+<img src="https://user-images.githubusercontent.com/101424559/210827803-57f37afd-029f-4a84-93d7-6df5808b171a.png" width="300" height="210">
+
+ΙD = 3 & ID = 2
+
+<img src="https://user-images.githubusercontent.com/101424559/210828112-d7e356bd-0a8e-4f97-91ec-4d9663ffd274.png" width="300" height="210">
+<img src="https://user-images.githubusercontent.com/101424559/210829219-d69f5cbe-0472-4a45-8ec4-5cd86fef332b.png" width="300" height="210">
+                                                                                                                                         
+
 # Bonus 
 
 
