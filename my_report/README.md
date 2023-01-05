@@ -73,20 +73,9 @@ video = new Capture(this, 320, 240);  video.start();, άλλαξα το stroke.
 <img src="https://user-images.githubusercontent.com/101424559/210105392-97ddcbf3-89b6-4b28-81b9-6ae54aab3335.png"  width="300" height="210">
 <img src="https://user-images.githubusercontent.com/101424559/210105502-ee1b4d2e-8e8e-429c-8a80-fe9c91dddd67.png" width="300" height="210">
 
-Έπειτα, με την βοήθεια αυτού του [βίντεο](https://www.youtube.com/watch?v=qKXlI4zAMAY&ab_channel=SergioL%C3%B3pezRey) κατάλαβα την λογική και έφτιαξα τον κώδικα έτσι ώστε όταν εμφανίζεται ένας κωδικός στην κάμερα από τον simulator, να εμφανίζεται και μία [εικόνα](https://processing.org/reference/image_.html) στο παράθυρο του processing.
-Στην συνέχεια από [εδώ](https://forum.processing.org/two/discussion/4991/help-with-detecting-fiducial-markers) έμαθα πως να γράψω τον κώδικα ώστε να αναγνωρίζει συγκεκριμένους κώδικες και από [εδώ](https://forum.processing.org/one/topic/how-do-i-hide-a-image-when-it-s-pressed.html) πως να εμφανίζεται και να εξαφανίζεται μία εικόνα. Η συνθήκη είναι η παρακάτω: 
-
-   if(id==5) {
-   showImage = true;
-   }
-   
-  else if(id!=5){
-  showImage = false;
-  }
-  //ta println ta xrisimopoiw epeidi me voithoyn
- 
-   println("ID " + id);
-}
+Έπειτα, με την βοήθεια αυτού του [βίντεο](https://www.youtube.com/watch?v=qKXlI4zAMAY&ab_channel=SergioL%C3%B3pezRey) κατάλαβα την λογική και έφτιαξα τον κώδικα έτσι ώστε όταν αναγνωρίζεται ένας κωδικός στην κάμερα από τον simulator, να εμφανίζεται και μία [εικόνα](https://processing.org/reference/image_.html) στο παράθυρο του processing.
+Στην συνέχεια πήρα τον κώδικα από το παράδειγμα και από [εδώ](https://forum.processing.org/two/discussion/4991/help-with-detecting-fiducial-markers) έμαθα τι να γράψω ώστε κάποιοι κώδικες να έχουν συγκεκριμένες ιδιότητες και από [εδώ](https://forum.processing.org/one/topic/how-do-i-hide-a-image-when-it-s-pressed.html) πως να εμφανίζεται και να εξαφανίζεται μία εικόνα.
+(ID = 0 [για αντιστροφή χρωμάτων](https://processing.org/reference/filter_.html), ID = 1 για ασπρόμαυρο φίλτρο, ID = 2 [για μεγέθυνση](https://processing.org/reference/scale_.html), ID = 3 πρώτη εικόνα, ID = 4 δεύτερη εικόνα.)
 
 # Bonus 
 
