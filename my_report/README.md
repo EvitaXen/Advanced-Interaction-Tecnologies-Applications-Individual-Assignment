@@ -110,6 +110,8 @@ Eπεξεργαστήκαμε το έτοιμο παράδειγμα Remove_Back
 
 ### 3. Kinect – Right-Hand Tracking
 
+Ανοίξαμε το παράδειγμα [tracking sceleton](https://github.com/totovr/SimpleOpenNI/blob/master/SimpleOpenNI/SimpleOpenNI/examples/OpenNI/Tracking_Skeleton/Tracking_Skeleton.pde) 
+
 # Conclusions
 
 
