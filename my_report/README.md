@@ -97,6 +97,9 @@ video = new Capture(this, 320, 240);  video.start();, άλλαξα το stroke.
 # Bonus 
 Δεν χρειάστηκε η διαδικασία Kinect – SimpleOpenNI – Installation, καθώς η εργασία υλοποιήθηκε στο εργαστήριο. Συνδέσαμε την κάμερα στον υπολογιστή, κατεβάσαμε την βιβλιοθήκη SimpleOpenNI και ανοίξαμε το παράδειγμα DepthInfrared. Ουσιαστικά πήραμε από το παράδειγμα DepthInfrared τον τρόπο κράτησης των συντεταγμένων του κοντινότερου σημείου closeX και closeY . Aπο το  [παράδειγμα 9-8](http://learningprocessing.com/examples/chp09/example-09-08-mouse-history) του βιβλίου learning processing 2  χρησιοποιησαμε τους πίνακες closestX[i] και closestY[i] για το κράτημα των προηγουμενων θέσεων του κοντινοτερου σημειου με αποτέλεσμα την δημιουργια του φιδιου εκχωρόντας τις τιμες closeX και closeY στους πίνακες.
 
+<img src="https://user-images.githubusercontent.com/101424559/211901834-e00493a7-11bb-4e79-811a-f05ecd05ba22.png" width="300" height="210">
+
+
 # Conclusions
 
 
