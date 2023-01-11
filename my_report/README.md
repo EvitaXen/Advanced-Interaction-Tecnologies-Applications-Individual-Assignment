@@ -112,6 +112,7 @@ Eπεξεργαστήκαμε το έτοιμο παράδειγμα Remove_Back
 
 Ανοίξαμε το παράδειγμα [tracking sceleton](https://github.com/totovr/SimpleOpenNI/blob/master/SimpleOpenNI/SimpleOpenNI/examples/OpenNI/Tracking_Skeleton/Tracking_Skeleton.pde) και επεξεργαστήκαμε τον κώδικα με την ίδια λογική όπως το πρώτο ζητούμενο μέσα από το παράδειγμα [παράδειγμα 9-8](http://learningprocessing.com/examples/chp09/example-09-08-mouse-history).
 
+
 <img src="https://user-images.githubusercontent.com/101424559/211933391-17fa8da1-a1c4-4e6b-a214-d46387f5312f.png" width="300" height="210">
 
 
