@@ -102,6 +102,13 @@ video = new Capture(this, 320, 240);  video.start();, άλλαξα το stroke.
 
 <img src="https://user-images.githubusercontent.com/101424559/211901834-e00493a7-11bb-4e79-811a-f05ecd05ba22.png" width="300" height="210">
 
+###  2. Kinect – Background Removal
+
+Eπεξεργαστήκαμε το έτοιμο παράδειγμα Remove_Background_RGB, αποθηκεύσαμε μία εικόνα στον φάκελο data αλλάξαμε το pixels[i] από color σε backgroundReplace.pixels[i]; όπου για αυτό ισχύει  backgroundReplace = loadImage("image2.jpg"); μέ την λογική από το από το παράδειγμα [16-6](http://learningprocessing.com/exercises/chp16/exercise-16-06-greenscreen) του learning processing. 
+
+<img src="https://user-images.githubusercontent.com/101424559/211910428-9e5aef8b-fd18-4402-952a-211b4be682a0.png" width="300" height="210">
+
+### 3. Kinect – Right-Hand Tracking
 
 # Conclusions
 
