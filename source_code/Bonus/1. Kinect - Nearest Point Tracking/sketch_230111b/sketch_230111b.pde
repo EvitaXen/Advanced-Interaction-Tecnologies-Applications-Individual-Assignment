@@ -44,8 +44,8 @@ void draw()
  } //kleinei to if 
  }
  }
- //gia to fidakki 2
- //prepei kapou na valo to closestX[i]=closeX;
+
+ //prepei kapou na valoume to closestX[i]=closeX;
  
  for (int i = 0; i < closestX.length-1; i ++ ) {
     // Shift all elements down one spot. 
@@ -58,21 +58,17 @@ void draw()
   // Update the last spot in the array with the mouse location.
   closestX[closestX.length-1] = closeX; 
   closestY[closestY.length-1] = closeY;
-
-//telos fidaki2 
+  
  //draw the depth image on the screen
  image(kinect.depthImage(),0,0);
  // draw a red circle over it,
  // positioned at the X and Y coordinates
  // we saved of the closest pixel.
- //fill(255,0,0);
- //ellipse(closeX, closeY, 25, 25);
-   // Draw everything
+  
   for (int i = 0; i < closestX.length; i ++ ) {
     // Draw an ellipse for each element in the arrays. 
     // Color and size are tied to the loop's counter: i.
-    noStroke();
-    //fill(255-i*5);
+    noStroke();    
     fill(255 , 0, 255-i*5);
     ellipse(closestX[i], closestY[i], i, i);
   }
