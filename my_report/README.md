@@ -3,12 +3,10 @@
 ### First and Last Name: Paraskevi Xenoktistaki
 ### University Registration Number: DPSD19143
 ### GitHub Personal Profile: EvitaXen
-### Advanced Interaction Tecnologies & Applications Github Personal Repository: xxx
+### Advanced Interaction Tecnologies & Applications Github Personal Repository
 
 # Introduction
-
 # Summary
-
 
 # 1st Deliverable
 ### 1. Video Capture
@@ -95,7 +93,7 @@ video = new Capture(this, 320, 240);  video.start();, άλλαξα το stroke.
 "Σε ποια φάση της σχεδίασης και ανάπτυξης του υλικό/λογισμικού της διάδρασης θα διαλέγατε την κανονική κάμερα ή τον προσομοιωτή?"
 Όσον αφορά την εισχώρηση δεδομένων (δηλαδή των fiducial-markers) για την αναγνώρηση τους από το πρόγραμμα θα μπορούσε να χρησιμοποιηθεί ο simulator μιάς και έχει μεγαλύτερη ακρίβεια, αλλά για την εμφάνιση δεδομένων (π.χ. οι εικόνες και τα φίλτρα) και για μία πιο άμμεση διάδραση του χρήστη είναι πιο επιθυμητή επιλογή η κανονική κάμερα.
 # Bonus 
-
+Συνεργασία με [DPSD18140](https://github.com/Zantzou)
 ### 1. Kinect – Nearest Point Tracking
 
 Δεν χρειάστηκε η διαδικασία Kinect – SimpleOpenNI – Installation, καθώς η εργασία υλοποιήθηκε στο εργαστήριο. Συνδέσαμε την κάμερα στον υπολογιστή, κατεβάσαμε την βιβλιοθήκη SimpleOpenNI και ανοίξαμε το παράδειγμα DepthInfrared. Ουσιαστικά πήραμε από το παράδειγμα DepthInfrared τον τρόπο κράτησης των συντεταγμένων του κοντινότερου σημείου closeX και closeY . Aπο το  [παράδειγμα 9-8](http://learningprocessing.com/examples/chp09/example-09-08-mouse-history) του βιβλίου learning processing 2  χρησιοποιησαμε τους πίνακες closestX[i] και closestY[i] για το κράτημα των προηγουμενων θέσεων του κοντινοτερου σημειου με αποτέλεσμα την δημιουργια του φιδιου εκχωρόντας τις τιμες closeX και closeY στους πίνακες.
@@ -104,7 +102,7 @@ video = new Capture(this, 320, 240);  video.start();, άλλαξα το stroke.
 
 ###  2. Kinect – Background Removal
 
-Eπεξεργαστήκαμε το έτοιμο παράδειγμα Remove_Background_RGB, αποθηκεύσαμε μία εικόνα στον φάκελο data αλλάξαμε το pixels[i] από color σε backgroundReplace.pixels[i]; όπου για αυτό ισχύει  backgroundReplace = loadImage("image2.jpg"); μέ την λογική από το από το παράδειγμα [16-6](http://learningprocessing.com/exercises/chp16/exercise-16-06-greenscreen) του learning processing. 
+Eπεξεργαστήκαμε το έτοιμο παράδειγμα Remove_Background_RGB, αποθηκεύσαμε μία εικόνα στον φάκελο data αλλάξαμε το pixels[i] από color σε backgroundReplace.pixels[i]; όπου για αυτό ισχύει  backgroundReplace = loadImage("image2.jpg"); μέ την λογική από το από το παράδειγμα [16-6](http://learningprocessing.com/exercises/chp16/exercise-16-06-greenscreen) του learning processing."Τι διαφορά έχει η χρήση της έτοιμης βιβλιοθήκης για την αφαίρεση του υποβάθρου σε σχέση με τον τρόπο που αφαιρέσατε το υπόβαθρο στο 2ο παραδοτέο;" Ήταν πιο γρήγορη και εύκολη η διαικασία και ο κώδικας περισσότερο κατανοητός.
 
 <img src="https://user-images.githubusercontent.com/101424559/211910428-9e5aef8b-fd18-4402-952a-211b4be682a0.png" width="300" height="210">
 
@@ -118,5 +116,4 @@ Eπεξεργαστήκαμε το έτοιμο παράδειγμα Remove_Back
 
 # Conclusions
 
-
-# Sources
+# Sources 
